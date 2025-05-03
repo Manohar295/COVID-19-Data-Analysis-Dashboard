@@ -1,4 +1,7 @@
- COVID-19-Data-Analysis-Dashboard
+COVID-19 Data Analysis Dashboard
+Tools: Python, Pandas, Plotly, Streamlit, Matplotlib, Seaborn, Jupyter
+Description:
+
 Developed an interactive web-based dashboard to analyze global COVID-19 trends using real-time data from Our World in Data.
 
 Cleaned and preprocessed large datasets to extract key metrics such as total cases, new cases, total deaths, and new deaths across selected countries.
