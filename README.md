@@ -1,5 +1,3 @@
-Jupyter notebook link: http://localhost:8888/lab/tree/Covid_Project.ipynb
-
 COVID-19 Data Analysis Dashboard
 Tools: Python, Pandas, Plotly, Streamlit, Matplotlib, Seaborn, Jupyter
 Description:
